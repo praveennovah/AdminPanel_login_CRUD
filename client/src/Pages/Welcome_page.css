@@ -1,0 +1,30 @@
+.custom-color {
+    background-image: linear-gradient(to right, #000428, #004e92);
+}
+.custom-nav-bg{
+    background-image: linear-gradient(to top, #000428, #023661);
+    font-weight: 600;
+}
+.Admin-name{
+    text-align: center;
+    background-color: rgba(42, 57, 190, 0.979);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profile-pic{
+    height: 20px;
+    width: 20px;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+}
+
+.nav-item:hover{
+    background-color: #1166b1;
+    border-radius: 5px;
+}
+body{
+    background-image: linear-gradient(to right, #000428, #004e92);
+}
+

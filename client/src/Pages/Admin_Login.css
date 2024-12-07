@@ -1,0 +1,9 @@
+.top-bar{
+  background-image: linear-gradient(to right, #000428, #004e92);
+}
+.logo{
+  height: 60px;
+  width: 60px;
+  margin: 10px
+}
+
